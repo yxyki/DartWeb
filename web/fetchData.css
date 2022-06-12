@@ -7,7 +7,12 @@ body {
     margin: 15px;
   }
   
-  h1, p, td, th, label, table {
+  h1, 
+  p, 
+  td, 
+  th, 
+  label, 
+  table {
     color: #333;
   }
   
